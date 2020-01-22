@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7006f4d2-eb13-4504-99cf-6314223c2fca" name="Default Changelist" comment="" />
+    <list default="true" id="7006f4d2-eb13-4504-99cf-6314223c2fca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/fonts/yugothic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/5b_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing_vcs_file" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579656724062</updated>
-      <workItem from="1579656730567" duration="16060000" />
+      <workItem from="1579656730567" duration="17459000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1579707528104</created>
